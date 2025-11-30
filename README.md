@@ -51,7 +51,7 @@ This project focuses on predicting the likelihood of diabetes using machine lear
 6. Google Colab
 
 ## Notebook
-1. [Predictive Analysis for Diabetes Dataset](Predictive_Analysis_for_Diabetes_Dataset.ipynb)`
+1. [Predictive Analysis for Diabetes Dataset](./Predictive%20Analysis%20for%20Diabetes%20Dataset.ipynb)
 
 ## Author
 **Abide Mandaza**  
